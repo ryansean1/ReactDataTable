@@ -1,0 +1,13 @@
+{
+  "world": [
+    { "id": "1", "states": "NSW" },
+
+    { "id": "2", "states": "VIC" },
+    { "id": "3", "states": "NT" },
+    { "id": "4", "states": "ACT" },
+    { "id": "5", "states": "WA" },
+    { "id": "6", "states": "QLD" },
+    { "id": "7", "states": "SA" },
+    { "id": "8", "states": "TAS" }
+  ]
+}
