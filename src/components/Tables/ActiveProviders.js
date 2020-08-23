@@ -86,7 +86,7 @@ const MyFilterState = ({ filterProperties, onFilter, propertyName }) => {
       value,
     };
 
-    // what is target exactly?
+    // what is target exactly?---- The Value
     onFilter({ target });
   };
 
@@ -101,7 +101,7 @@ const MyFilterState = ({ filterProperties, onFilter, propertyName }) => {
         labelId="demo-simple-select-helper-label"
         id="demo-simple-select-helper"
         multiple={false}
-        // how do you log out a specific value from this when you click?
+        // how do you log out a specific value from this when you click
         onChange={handleChange}
       >
         <MenuItem value="">
